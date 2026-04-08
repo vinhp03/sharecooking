@@ -1,12 +1,12 @@
-# CookingShare 🍳
+# CookingShare 
 
 A full-stack application for sharing and discovering cooking recipes with features like user authentication, recipe management, ratings, and comments.
 
-## 📋 Project Overview
+## Project Overview
 
 CookingShare is a modern, scalable application built with **Flutter** for the frontend and **Node.js** for the backend. Users can create, share, and rate cooking recipes with images and videos.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework:** Flutter 3.1.5+
@@ -100,7 +100,7 @@ CookingShare/
     └── pubspec.yaml        # Dependencies
 ```
 
-## 📖 Documentation
+## Documentation
 
 - **Backend Documentation:** [cookingsharebe/README.md](./cookingsharebe/README.md)
 - **Frontend Documentation:** [cookingsharefe/README.md](./cookingsharefe/README.md)
