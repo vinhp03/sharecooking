@@ -108,7 +108,6 @@ CookingShare/
 ## Author
 
 **Phùng Thế Vinh**
-- Student ID: 4451051043
 
 ## License
 
